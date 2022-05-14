@@ -7,3 +7,6 @@ The training code is resnet.py, which is defaultly set to train a ResNet-32 mode
 The model is the resnet_32_cifar100.h5.
 
 I have also provided my training log file which can be displayed via tensorboard.
+
+模型链接：https://pan.baidu.com/s/15IflqLiv0-hs41mZLQ_b9A 
+提取码：fbea
